@@ -18,7 +18,7 @@ Lagi fokus belajar bikin aplikasi mobile dan ngulik konsep dasar sampai paham.
 * ⚙️ **Back-End:** Pelan-pelan belajar cara kerja server dan database.
 * 🤖 **Bot Development:** Lagi ngembangin bot, sambil belajar cara kerja otomasi dan integrasi API.
 * 💰 **financeApp:** Habis itu lanjut bikin aplikasi pencatat keuangan bernama financeApp.
-* 🎯 **Target:** ISI_TARGETMU
+* 🎯 **Target:** Punya Bot WhatsApp
     </td>
   </tr>
 </table>
